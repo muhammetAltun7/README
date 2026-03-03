@@ -10,8 +10,6 @@ I'm a passionate Computer Engineering student currently focused on mastering **F
 - **Backend & Cloud:** Firebase (Auth, Firestore, Analytics)
 - **Database:** SQLite (Local Data Persistence)
 - **IDE:** Android Studio
-- **General:** C#, Java, Git & GitHub
-
 ---
 
 ### 📬 Let's Connect!
